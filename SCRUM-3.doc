@@ -1,0 +1,324 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>[#SCRUM-3] Como cliente, quero adicionar um item ao carrinho após o login para que eu possa continuar o processo de compra normalmente.</title>
+    <meta http-equiv="Content-Type" Content="application/vnd.ms-word; charset=UTF-8">
+        <style type="text/css">
+
+.tableBorder, .grid
+{
+    background-color: #fff;
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.tableBorder td, .grid td
+{
+    vertical-align: top;
+    padding: 2px;
+    border: 1px solid #ccc;
+}
+
+.noPadding
+{
+    padding: 0 !important;
+}
+
+h3 .subText
+{
+    font-size: 60%;
+    font-weight: normal;
+}
+
+.tabLabel
+{
+    font-weight: bold;
+    border: 1px solid #ccc;
+    border-bottom:none;
+    padding: 2px;
+    display: inline;
+}
+
+td.blank
+{
+    padding: 0;
+    margin: 0;
+}
+
+.blank td
+{
+    border: none;
+}
+
+#descriptionArea
+{
+    margin: 0;
+    padding: 2px;
+    border: 1px solid #ccc;
+}
+
+hr
+{
+    border-top:1px solid #aaa;
+}
+
+hr.fullcontent
+{
+  height: 15px;
+  padding: 10px 0;
+  background: #fff url('https://davidcarlosdn.atlassian.net/images/icons/hr.gif') no-repeat scroll center;
+}
+
+</style>
+
+</head>
+<body>
+
+<table class="tableBorder" cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td bgcolor="#f0f0f0" width="100%" colspan="2" valign="top">
+                            <h3 class="formtitle">
+                        [SCRUM-3]&nbsp;<a href="https://davidcarlosdn.atlassian.net/browse/SCRUM-3">Como cliente, quero adicionar um item ao carrinho após o login para que eu possa continuar o processo de compra normalmente.</a>
+            <span class="subText">
+               Criado: 29/jul/25                   &nbsp;Atualizado(a): 29/jul/25
+
+                                            </span>
+            </h3>
+        </td>
+    </tr>
+    <tr>
+        <td width="20%"><b>Status:</b></td>
+        <td width="80%">Tarefas pendentes</td>
+    </tr>
+    <tr>
+        <td width="20%"><b>Projeto:</b></td>
+        <td width="80%"><a href="https://davidcarlosdn.atlassian.net/secure/BrowseProject.jspa?id=10000">Wex</a></td>
+    </tr>
+
+        <tr>
+            <td><b>Componentes:</b></td>
+            <td>
+                            Nenhum
+                </td>
+    </tr>
+    
+
+        <tr>
+            <td><b>Versões afetadas:</b></td>
+            <td>
+                            Nenhum
+                </td>
+    </tr>
+    
+
+        <tr>
+            <td><b>Versões corrigidas:</b></td>
+            <td>
+                            Nenhum
+                </td>
+    </tr>
+    
+    
+    </table>
+
+<br />
+<table class="grid" cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td bgcolor="#f0f0f0" valign="top" width="20%">
+            <b>Tipo:</b>
+        </td>
+        <td bgcolor="#ffffff" valign="top"  width="30%" >
+            Tarefa
+        </td>
+
+                    <td bgcolor="#f0f0f0">
+                <b>Prioridade:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" nowrap>
+                Medium
+            </td>
+            </tr>
+    <tr>
+                        <td bgcolor="#f0f0f0" valign="top" width="20%">
+                <b>Relator:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top"  width="30%" >
+                                        
+                
+        
+            <a class="user-hover" rel="712020:a7527da8-b872-4abc-a34c-b5315f43e694"
+                id="word_reporter_712020:a7527da8-b872-4abc-a34c-b5315f43e694"
+                href="https://davidcarlosdn.atlassian.net/secure/ViewProfile.jspa?accountId=712020%3Aa7527da8-b872-4abc-a34c-b5315f43e694">
+                    David Carlos
+                </a>
+
+                            </td>
+        
+                    <td bgcolor="#f0f0f0" width="20%">
+                <b>Responsável:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" nowrap  width="30%" >
+                                    Não atribuído
+                            </td>
+            </tr>
+    	<tr>
+		<td bgcolor="#f0f0f0" width="20%">
+			<b>Resolução:</b>
+		</td>
+		<td bgcolor="#ffffff" valign="top" width="30%" nowrap>
+            				Não resolvido(s)
+                    </td>
+                    <td bgcolor="#f0f0f0" width="20%">
+                <b>Votos:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" width="30%" nowrap>
+                0
+            </td>
+        
+    </tr>
+    
+        <tr>
+        <td bgcolor="#f0f0f0" width="20%">
+            <b>Categorias:</b>
+        </td>
+        <td id="labels-10002-value" class="value" bgcolor="#ffffff" valign="top" colspan="3" nowrap>
+                            Nenhum
+                    </td>
+    </tr>
+    
+    	<tr>
+        		<td bgcolor="#f0f0f0" width="20%"><b>Estimativa de trabalho restante:</b></td>
+        <td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Desconhecido
+            		</td>
+    </tr>
+    <tr>
+                <td bgcolor="#f0f0f0" width="20%"><b>Tempo gasto:</b></td>
+		<td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Desconhecido
+            		</td>
+	</tr>
+    <tr>
+                <td bgcolor="#f0f0f0" width="20%"><b>Estimativa original:</b></td>
+		<td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Desconhecido
+            		</td>
+    </tr>
+    
+    </table>
+
+
+
+    <br />
+
+    	<table class="grid" cellpadding="0" cellspacing="0" border="0" width="100%">
+            
+
+                <tr>
+            <td bgcolor="#f0f0f0" width=20% valign=top>
+                <b>Anexos:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top">
+                                    <img src="https://davidcarlosdn.atlassian.net/images/icons/attach/image.gif" height="16" width="16" border="0" alt="Arquivo PNG">
+                    Captura de tela 2025-07-29 194842.png &nbsp;&nbsp;&nbsp;
+                                    <img src="https://davidcarlosdn.atlassian.net/images/icons/attach/image.gif" height="16" width="16" border="0" alt="Arquivo PNG">
+                    Captura de tela 2025-07-29 194859.png &nbsp;&nbsp;&nbsp;
+                                    <img src="https://davidcarlosdn.atlassian.net/images/icons/attach/image.gif" height="16" width="16" border="0" alt="Arquivo PNG">
+                    Captura de tela 2025-07-29 194911.png &nbsp;&nbsp;&nbsp;
+                            </td>
+        </tr>
+        
+    
+
+
+    
+                        <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>Rank:</b></td>
+                <td id="customfield_10019-10002-value" class="value" bgcolor="#ffffff" width="80%">      0|i0000f:
+  </td>
+            </tr>
+                                <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>Sprint:</b></td>
+                <td id="customfield_10020-10002-value" class="value" bgcolor="#ffffff" width="80%"></td>
+            </tr>
+            </table>
+
+
+    <br/>
+
+    <table cellpadding="2" cellspacing="0" border="0" width="100%" align="center">
+    <tr>
+        <td bgcolor="#bbbbbb" width="1%" nowrap align="center">
+            &nbsp;<font color="#ffffff"><b>Comentários</b></font>&nbsp;
+        </td>
+        <td>&nbsp;</td>
+    </tr>
+    </table>
+
+    <table cellpadding="0" cellspacing="0" border="0" width="100%" class="grid" style="margin: 0;">
+                <tr id="comment-header-10002"><td bgcolor="#f0f0f0">
+            Comentado por  
+                                                    
+                
+        
+            <a class="user-hover" rel="712020:a7527da8-b872-4abc-a34c-b5315f43e694"
+                id="word_commented_712020:a7527da8-b872-4abc-a34c-b5315f43e694"
+                href="https://davidcarlosdn.atlassian.net/secure/ViewProfile.jspa?accountId=712020%3Aa7527da8-b872-4abc-a34c-b5315f43e694">
+                    David Carlos
+                </a>
+
+                                        <font size="-2">
+            [
+                <font color="#336699">29/jul/25</font>
+
+                            ]
+            </font>
+
+        </td></tr>
+        <tr id="comment-body-10002"><td bgcolor="#ffffff">
+            <h3><a name="1.Valor%3A"></a>1. Valor:</h3>
+
+<p>Permitir que o cliente adicione produtos ao carrinho é essencial para a experiência de compra. Esse fluxo inicia o processo de finalização do pedido.</p>
+
+<h3><a name="2.Narrativadousu%C3%A1rio%3A"></a>2. Narrativa do usuário:</h3>
+
+<p><b>Como</b> cliente<br/>
+<b>Eu quero</b> adicionar um produto ao carrinho<br/>
+<b>Para</b> iniciar meu processo de compra na loja virtual.</p>
+
+<h3><a name="3.Requisitos"></a>3. Requisitos</h3>
+
+<ul>
+	<li><b>Atores:</b> Cliente</li>
+	<li><b>Interfaces:</b> Ver documento em anexo da UI/UX</li>
+	<li><b>Dados:</b>
+	<ul>
+		<li>Banco de dados de produtos e carrinho de compras.</li>
+		<li>API para manipular itens do carrinho (adicionar, listar).</li>
+		<li>Botões "ADD TO CART" na lista de produtos.</li>
+	</ul>
+	</li>
+	<li><b>Plataformas/Ambientes:</b>
+	<ul>
+		<li>Web / Web Mobile</li>
+		<li>Devem ser configurados ambientes e pipelines para desenvolvimento, homologação de carrinho, QA e produção.</li>
+	</ul>
+	</li>
+	<li><b>Critérios de aceite:</b>
+	<ul>
+		<li>Usuário deverá visualizar botão “ADD TO CART” nos produtos.</li>
+		<li>Ao clicar, o item deverá ser adicionado ao carrinho.</li>
+		<li>Ícone do carrinho deverá refletir a quantidade de itens adicionados.</li>
+		<li><span class="image-wrap" style=""><img src="/rest/api/3/attachment/content/10004" alt="Captura de tela 2025-07-29 194842.png" height="635" width="1431" style="border: 0px solid black" /></span><br/>
+<span class="image-wrap" style=""><img src="/rest/api/3/attachment/content/10005" alt="Captura de tela 2025-07-29 194859.png" height="659" width="1397" style="border: 0px solid black" /></span><br/>
+<span class="image-wrap" style=""><img src="/rest/api/3/attachment/content/10006" alt="Captura de tela 2025-07-29 194911.png" height="643" width="1423" style="border: 0px solid black" /></span></li>
+	</ul>
+	</li>
+</ul>
+
+        </td></tr>
+            </table>
+Gerado em Thu Jul 31 23:52:14 UTC 2025 por David Carlos usando JIRA 1001.0.0-SNAPSHOT#100287-rev:4c32d6701ac3f56e0e4add862d6d7f6639f4aae3.
+
+</body>
+</html>

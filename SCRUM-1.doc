@@ -1,0 +1,322 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>[#SCRUM-1] Como cliente, quero fazer login no site com minhas credenciais válidas para que eu possa acessar a lista de produtos disponíveis.</title>
+    <meta http-equiv="Content-Type" Content="application/vnd.ms-word; charset=UTF-8">
+        <style type="text/css">
+
+.tableBorder, .grid
+{
+    background-color: #fff;
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.tableBorder td, .grid td
+{
+    vertical-align: top;
+    padding: 2px;
+    border: 1px solid #ccc;
+}
+
+.noPadding
+{
+    padding: 0 !important;
+}
+
+h3 .subText
+{
+    font-size: 60%;
+    font-weight: normal;
+}
+
+.tabLabel
+{
+    font-weight: bold;
+    border: 1px solid #ccc;
+    border-bottom:none;
+    padding: 2px;
+    display: inline;
+}
+
+td.blank
+{
+    padding: 0;
+    margin: 0;
+}
+
+.blank td
+{
+    border: none;
+}
+
+#descriptionArea
+{
+    margin: 0;
+    padding: 2px;
+    border: 1px solid #ccc;
+}
+
+hr
+{
+    border-top:1px solid #aaa;
+}
+
+hr.fullcontent
+{
+  height: 15px;
+  padding: 10px 0;
+  background: #fff url('https://davidcarlosdn.atlassian.net/images/icons/hr.gif') no-repeat scroll center;
+}
+
+</style>
+
+</head>
+<body>
+
+<table class="tableBorder" cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td bgcolor="#f0f0f0" width="100%" colspan="2" valign="top">
+                            <h3 class="formtitle">
+                        [SCRUM-1]&nbsp;<a href="https://davidcarlosdn.atlassian.net/browse/SCRUM-1">Como cliente, quero fazer login no site com minhas credenciais válidas para que eu possa acessar a lista de produtos disponíveis.</a>
+            <span class="subText">
+               Criado: 29/jul/25                   &nbsp;Atualizado(a): 29/jul/25
+
+                                            </span>
+            </h3>
+        </td>
+    </tr>
+    <tr>
+        <td width="20%"><b>Status:</b></td>
+        <td width="80%">Tarefas pendentes</td>
+    </tr>
+    <tr>
+        <td width="20%"><b>Projeto:</b></td>
+        <td width="80%"><a href="https://davidcarlosdn.atlassian.net/secure/BrowseProject.jspa?id=10000">Wex</a></td>
+    </tr>
+
+        <tr>
+            <td><b>Componentes:</b></td>
+            <td>
+                            Nenhum
+                </td>
+    </tr>
+    
+
+        <tr>
+            <td><b>Versões afetadas:</b></td>
+            <td>
+                            Nenhum
+                </td>
+    </tr>
+    
+
+        <tr>
+            <td><b>Versões corrigidas:</b></td>
+            <td>
+                            Nenhum
+                </td>
+    </tr>
+    
+    
+    </table>
+
+<br />
+<table class="grid" cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td bgcolor="#f0f0f0" valign="top" width="20%">
+            <b>Tipo:</b>
+        </td>
+        <td bgcolor="#ffffff" valign="top"  width="30%" >
+            Tarefa
+        </td>
+
+                    <td bgcolor="#f0f0f0">
+                <b>Prioridade:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" nowrap>
+                Medium
+            </td>
+            </tr>
+    <tr>
+                        <td bgcolor="#f0f0f0" valign="top" width="20%">
+                <b>Relator:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top"  width="30%" >
+                                        
+                
+        
+            <a class="user-hover" rel="712020:a7527da8-b872-4abc-a34c-b5315f43e694"
+                id="word_reporter_712020:a7527da8-b872-4abc-a34c-b5315f43e694"
+                href="https://davidcarlosdn.atlassian.net/secure/ViewProfile.jspa?accountId=712020%3Aa7527da8-b872-4abc-a34c-b5315f43e694">
+                    David Carlos
+                </a>
+
+                            </td>
+        
+                    <td bgcolor="#f0f0f0" width="20%">
+                <b>Responsável:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" nowrap  width="30%" >
+                                    Não atribuído
+                            </td>
+            </tr>
+    	<tr>
+		<td bgcolor="#f0f0f0" width="20%">
+			<b>Resolução:</b>
+		</td>
+		<td bgcolor="#ffffff" valign="top" width="30%" nowrap>
+            				Não resolvido(s)
+                    </td>
+                    <td bgcolor="#f0f0f0" width="20%">
+                <b>Votos:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" width="30%" nowrap>
+                0
+            </td>
+        
+    </tr>
+    
+        <tr>
+        <td bgcolor="#f0f0f0" width="20%">
+            <b>Categorias:</b>
+        </td>
+        <td id="labels-10000-value" class="value" bgcolor="#ffffff" valign="top" colspan="3" nowrap>
+                            Nenhum
+                    </td>
+    </tr>
+    
+    	<tr>
+        		<td bgcolor="#f0f0f0" width="20%"><b>Estimativa de trabalho restante:</b></td>
+        <td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Desconhecido
+            		</td>
+    </tr>
+    <tr>
+                <td bgcolor="#f0f0f0" width="20%"><b>Tempo gasto:</b></td>
+		<td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Desconhecido
+            		</td>
+	</tr>
+    <tr>
+                <td bgcolor="#f0f0f0" width="20%"><b>Estimativa original:</b></td>
+		<td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Desconhecido
+            		</td>
+    </tr>
+    
+    </table>
+
+
+
+    <br />
+
+    	<table class="grid" cellpadding="0" cellspacing="0" border="0" width="100%">
+            
+
+                <tr>
+            <td bgcolor="#f0f0f0" width=20% valign=top>
+                <b>Anexos:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top">
+                                    <img src="https://davidcarlosdn.atlassian.net/images/icons/attach/image.gif" height="16" width="16" border="0" alt="Arquivo PNG">
+                    Captura de tela 2025-07-29 194203.png &nbsp;&nbsp;&nbsp;
+                                    <img src="https://davidcarlosdn.atlassian.net/images/icons/attach/image.gif" height="16" width="16" border="0" alt="Arquivo PNG">
+                    dbd78faf-5158-4be3-b785-41e08b1dcce5.png &nbsp;&nbsp;&nbsp;
+                            </td>
+        </tr>
+        
+    
+
+
+    
+                        <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>Rank:</b></td>
+                <td id="customfield_10019-10000-value" class="value" bgcolor="#ffffff" width="80%">      0|hzzzzz:
+  </td>
+            </tr>
+                                <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>Sprint:</b></td>
+                <td id="customfield_10020-10000-value" class="value" bgcolor="#ffffff" width="80%"></td>
+            </tr>
+            </table>
+
+
+    <br/>
+
+    <table cellpadding="2" cellspacing="0" border="0" width="100%" align="center">
+    <tr>
+        <td bgcolor="#bbbbbb" width="1%" nowrap align="center">
+            &nbsp;<font color="#ffffff"><b>Comentários</b></font>&nbsp;
+        </td>
+        <td>&nbsp;</td>
+    </tr>
+    </table>
+
+    <table cellpadding="0" cellspacing="0" border="0" width="100%" class="grid" style="margin: 0;">
+                <tr id="comment-header-10000"><td bgcolor="#f0f0f0">
+            Comentado por  
+                                                    
+                
+        
+            <a class="user-hover" rel="712020:a7527da8-b872-4abc-a34c-b5315f43e694"
+                id="word_commented_712020:a7527da8-b872-4abc-a34c-b5315f43e694"
+                href="https://davidcarlosdn.atlassian.net/secure/ViewProfile.jspa?accountId=712020%3Aa7527da8-b872-4abc-a34c-b5315f43e694">
+                    David Carlos
+                </a>
+
+                                        <font size="-2">
+            [
+                <font color="#336699">29/jul/25</font>
+
+                            ]
+            </font>
+
+        </td></tr>
+        <tr id="comment-body-10000"><td bgcolor="#ffffff">
+            <p><b>1 Valor:</b><br/>
+A autenticação do usuario permite que o cliente acesse sua conta e visualize produtos de forma rápida, iniciando o processo de compra sem problemas.</p>
+
+<p>2 <b>Narrativa do usuário:</b></p>
+
+<p>                             <b>Como</b> cliente <br/>
+                                  <b>Eu quero</b> fazer login no site com minhas credenciais válidas.<br/>
+                                  <b>Para</b> acessar a lista de produtos disponíveis.</p>
+
+
+
+<p>3 <b>Requisitos</b></p>
+
+<ul>
+	<li><b>Atores:</b> Cliente</li>
+	<li><b>Interfaces:</b> Ver documento em anexo da UI/UX</li>
+	<li><b>Dados:</b>
+	<ul>
+		<li>Criação de banco de dados com informações de usuários cadastrados.</li>
+		<li>Criação de API de autenticação para validar login.</li>
+		<li>Criação da tela de login com campos de usuário e senha.</li>
+	</ul>
+	</li>
+	<li><b>Plataformas/Ambientes:</b>
+	<ul>
+		<li>Web / Web Mobile</li>
+		<li>Devem estar configurados ambientes e pipelines para desenvolvimento, homologação, QA e produção.</li>
+	</ul>
+	</li>
+	<li><b>Critérios de aceite:</b>
+	<ul>
+		<li>Usuário deverá visualizar formulário para login.</li>
+		<li>Usuário deverá preencher usuário e senha válidos.</li>
+		<li>Sistema deverá redirecionar para a tela de produtos após login bem-sucedido.<br/>
+<span class="image-wrap" style=""><img src="/rest/api/3/attachment/content/10000" alt="Captura de tela 2025-07-29 194203.png" height="674" width="1100" style="border: 0px solid black" /></span><br/>
+<span class="image-wrap" style=""><img src="/rest/api/3/attachment/content/10001" alt="dbd78faf-5158-4be3-b785-41e08b1dcce5.png" height="633" width="1423" style="border: 0px solid black" /></span></li>
+	</ul>
+	</li>
+</ul>
+
+        </td></tr>
+            </table>
+Gerado em Thu Jul 31 23:51:32 UTC 2025 por David Carlos usando JIRA 1001.0.0-SNAPSHOT#100287-rev:4c32d6701ac3f56e0e4add862d6d7f6639f4aae3.
+
+</body>
+</html>
